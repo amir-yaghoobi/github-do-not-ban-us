@@ -50,4 +50,4 @@ Specifically you can:
 
 ## Supporters
 
-- - Amirhossein Yaghoobi ([amir-yaghoobi](https://github.com/amir-yaghoobi))
+- Amirhossein Yaghoobi ([amir-yaghoobi](https://github.com/amir-yaghoobi))
